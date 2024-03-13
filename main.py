@@ -8,3 +8,7 @@ def greet (name):
 print (
     greet("Burak Bin Munir")
 )
+
+print(
+    greet("Shehryar Munir")
+)
